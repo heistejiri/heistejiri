@@ -27,3 +27,7 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heistejiri&show_icons=true&locale=en" alt="heistejiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heistejiri&" alt="heistejiri" /></p>
+
+
+# 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
