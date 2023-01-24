@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Front-end Web Developer. My experience has provided me with the technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+I'm a Front-end Web and Mobile App Developer. My experience has provided me with the technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
 
 
 ♥️ I enjoy to make people laugh and coding. <br/>
