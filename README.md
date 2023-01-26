@@ -4,7 +4,7 @@ I'm a Front-end Web Developer. My experience has provided me with the technical 
 
 
 ♥️ I enjoy to make people laugh and coding. <br/>
-📫 How to reach me: [email](dev.heistejiri@gmail.com) or [twitter](https://www.twitter.com/heistejiri) <br/>
+📫 How to reach me: [email](dev.heistejiri@gmail.com), [twitter](https://www.twitter.com/heistejiri) <br/>
 💬 Ask me about anything <br/>
 
 
