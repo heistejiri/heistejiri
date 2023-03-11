@@ -5,7 +5,7 @@ I'm a Front-end Developer. My experience has provided me with the technical skil
 
 ♥️ I enjoy to make people laugh and coding. <br/>
 📫 How to reach me: [email](dev.heistejiri@gmail.com), [twitter](https://www.twitter.com/heistejiri) <br/>
-💬 Ask me about anything <br/>
+💬 Ask me about anything!: <br/>
 
 
 #### Connect with me:
