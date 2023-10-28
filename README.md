@@ -3,7 +3,7 @@
 I'm Full Stack Blockchain Developer and Smart Contract Auditor. I Have vast knowledge is certain Blockchain Technologies and How the Blockchain works. I have works for several Web3 projects as a Project Manager, Moderator and so own. My experience has provided me with the technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web based platforms.
 
 
-♥️ I enjoy to make people laugh and coding. <br/>
+♥️ I enjoy to make people laugh and love to code. <br/>
 📫 How to reach me: [email](dev.heistejiri@gmail.com), [twitter](https://www.twitter.com/heistejiri) <br/>
 💬 Ask me about anything!: <br/>
 
